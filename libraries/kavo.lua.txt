@@ -71,7 +71,7 @@ local themeStyles = {
         TextColor = Color3.fromRGB(25, 32, 42),
         ElementColor = Color3.fromRGB(224, 224, 224)
     },
-    DepartTheme = {
+    Syra = {
         SchemeColor = Color3.fromRGB(26, 26, 26),
         Background = Color3.fromRGB(1, 1, 1),
         Header = Color3.fromRGB(1, 1, 1),
