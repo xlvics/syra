@@ -127,7 +127,7 @@ local SettingsT = {
 
 }
 
-local Name = "Departvipcfg.JSON"
+local Name = "SyraCFG.JSON"
 
 pcall(function()
 
@@ -156,8 +156,8 @@ function Kavo.CreateLib(kavName, themeList)
         themeList = themeStyles.DarkTheme
     elseif themeList == "LightTheme" then
         themeList = themeStyles.LightTheme
-    elseif themeList == "DepartTheme" then
-        themeList = themeStyles.DepartTheme
+    elseif themeList == "SyraTheme" then
+        themeList = themeStyles.SyraTheme
     elseif themeList == "GrapeTheme" then
         themeList = themeStyles.GrapeTheme
     elseif themeList == "Ocean" then
